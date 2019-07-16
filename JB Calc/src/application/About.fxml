@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="387.0" prefWidth="526.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.171">
+   <children>
+      <TextArea editable="false" layoutX="46.0" layoutY="14.0" prefHeight="359.0" prefWidth="434.0" scrollLeft="10.0" scrollTop="10.0" text="Welcome!!!..........Tools or IDE used:- SceneBuilder and Eclipse...............Language:- Java-fx...................files:- 3 files....Main file to load scene......Model to implement logic......ModelController to controll the ActionEvents in scene..............other two fxml files............Note:-It's not working according to standard math rule as, by presing evry operator button it'll calculate the instruction................Press C to reset the Calc.................Thnkuuuu!!!!!!!!!!!!...........JB Calc" wrapText="true" />
+   </children>
+</AnchorPane>
